@@ -136,7 +136,7 @@
 
 ---
 
-**Última atualização:** 2026-06-12 00:20 (mg executado)  
+**Última atualização:** 2026-06-25 23:11 (mg executado)  
 **Origem:** Backup Thomson Reuters (28/05/2026)  
 **Versão:** TR Production (com regras de segurança críticas)  
 **Contexto:** Sessão local sincronizada em C:\Users\educa\.claude\projects\C--Users-educa\memory\
